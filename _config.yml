@@ -1,9 +1,9 @@
-public: "True"
+public: True
 type: "docs"
 category: "Reference and Outreach"
 tags: 
 - "policy"
 title: "Archival Education Program Strategy"
-description:"Overview of the Archival Education program"
+description: "Overview of the Archival Education program"
 pages:
   - ["Archival Education Program Strategy", "index"]
