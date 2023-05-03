@@ -12,7 +12,7 @@ We work to bridge the gap between the archive and the classroom. Not all schools
 We create educational resources for K-12 educators, undergraduate, and graduate level instructors, archivists, archival educators, and museum educators.
 
 ## Activities and Products
-* Open-Source Educational Resources
+### Open-Source Educational Resources
 We develop flexible primary source educational resources targeted to levels spanning older elementary to graduate students. These resources are open-source and include curated scans of primary sources from the RAC’s collections. They can be integrated into remote, hybrid, and traditional classroom settings.
 
 ### Educator Workshops
