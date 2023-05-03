@@ -12,16 +12,16 @@ We work to bridge the gap between the archive and the classroom. Not all schools
 We create educational resources for K-12 educators, undergraduate, and graduate level instructors, archivists, archival educators, and museum educators.
 
 ## Activities and Products
-• Open-Source Educational Resources
+* Open-Source Educational Resources
 We develop flexible primary source educational resources targeted to levels spanning older elementary to graduate students. These resources are open-source and include curated scans of primary sources from the RAC’s collections. They can be integrated into remote, hybrid, and traditional classroom settings.
 
-•	Educator Workshops
+* Educator Workshops
 We connect with cultural organizations and educational institutions to lead workshops that model for faculty and staff the work being done at the RAC. We expand on our belief in open-source materials by sharing frameworks with professionals interested in creating archival education learning opportunities.
 
-•	Archival Educators Roundtable 
+* Archival Educators Roundtable 
 The Archival Education Roundtable was created in 2016 and is a growing community of educators, archivists, and archival education allies who use primary sources for education, outreach, and public engagement.
 
-•	Public Engagement
+* Public Engagement
 The RAC partners with local organizations to create public programming opportunities. We enjoy working with members of the community, learning how their stories connect with and can inform our work, and sharing our resources with lifelong learners.
 
 Partners
@@ -30,34 +30,34 @@ To develop our open-source teaching materials, we collaborate with public school
 ## Pedagogical Goals
 Upper Elementary – Middle School (Grades 3-8)
 Students will:
-•	Learn the difference between primary and secondary sources
-•	Be introduced to archives and archival terminology 
-•	Learn about the work of historians, researchers, and archivists
-•	Make personal, classroom, and community connections 
-•	Engage in document analysis
-•	Learn about reliable sources
-•	Learn why and how to cite sources
-•	Develop research questions
-•	Develop and hone presentation skills
-•	Discuss gaps or “silences” in records
+* Learn the difference between primary and secondary sources
+* Be introduced to archives and archival terminology 
+* Learn about the work of historians, researchers, and archivists
+* Make personal, classroom, and community connections 
+* Engage in document analysis
+* Learn about reliable sources
+* Learn why and how to cite sources
+* Develop research questions
+* Develop and hone presentation skills
+* Discuss gaps or “silences” in records
 
 Intermediate – Advanced (10th grade – University)
 Students will:
-•	Learn about the research process
-•	Engage in document analysis across multiple collections and with a variety of archival formats
-•	Engage with primary sources in a variety of ways through close reading, notetaking, and building and articulating an argument
-•	Debate using evidence from primary source documents
-•	Engage in role-playing from the perspective of the records’ creators 
-•	Discuss culturally competent description 
-•	Connect sources to context and research in content areas
-•	Introduce students to foundation decision-making practices and policy work
+* Learn about the research process
+* Engage in document analysis across multiple collections and with a variety of archival formats
+* Engage with primary sources in a variety of ways through close reading, notetaking, and building and articulating an argument
+* Debate using evidence from primary source documents
+* Engage in role-playing from the perspective of the records’ creators 
+* Discuss culturally competent description 
+* Connect sources to context and research in content areas
+* Introduce students to foundation decision-making practices and policy work
 
 Adult Educational Outreach
 Participants will:
-•	Learn about the RAC/archives
-•	Make connections to their own lives, histories, and communities
-•	Engage in document analysis
-•	Engage in small group and whole group discussions
+* Learn about the RAC/archives
+* Make connections to their own lives, histories, and communities
+* Engage in document analysis
+* Engage in small group and whole group discussions
 
 ## Primary Source Selection
 The primary sources selected for archival education address a range of topics and key moments and movements in American and global history. They connect topically to curricula and/or support targeted skill development in inquiry-based and project-based learning.  
