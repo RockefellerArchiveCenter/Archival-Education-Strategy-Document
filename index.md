@@ -84,5 +84,4 @@ Thematic audiovisual documents with scaffolded questions, analysis, and discussi
 ## Additional Resources
 Society of American Archivists’ Primary Source Literacy Guidelines. 
 
-### Connect with us via our [Teach with Archives] (https://resource.rockarch.org/teach-with-archives/) hub. 
-     
+## Connect with us via our [Teach with Archives](https://resource.rockarch.org/teach-with-archives/) hub.
