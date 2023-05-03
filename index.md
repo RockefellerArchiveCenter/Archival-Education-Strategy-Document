@@ -82,6 +82,6 @@ Detailed lesson-by-lesson description of archival education projects.
 Thematic audiovisual documents with scaffolded questions, analysis, and discussion.
 
 ## Additional Resources
-Society of American Archivists’ Primary Source Literacy Guidelines.
+[Society of American Archivists’ Primary Source Literacy Guidelines](https://www2.archivists.org/standards/guidelines-for-primary-source-literacy).
 
 ## Connect with us via our [Teach with Archives](https://resource.rockarch.org/teach-with-archives/) hub.
