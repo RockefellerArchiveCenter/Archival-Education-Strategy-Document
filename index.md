@@ -8,6 +8,18 @@ The RAC’s Archival Education Program’s mission is to demystify the archive a
 ## Values
 We work to bridge the gap between the archive and the classroom. Not all schools have the opportunity to connect in person with an archivist, and we believe that by creating open-source materials that are easily accessible, along with opportunities for virtual workshops, we are promoting equity in education.
 
+### Center Equity, Diversity & Accessibility
+We create a diverse and inclusive environment.We help learners of all types to see themselves in the records, to more deeply connect with human experiences in the past. We believe equity means resources for all. Our materials, resources, and learnings are open-source. They are published in venues and formats that our audiences already use. We adopt culturally responsive frameworks in our work.
+
+### Communicate with Transparency and Foster Trust 
+We are transparent about the sources and limitations of our records. Our visual identity is consistent, clear, and cohesive.
+
+### Build from User Needs
+We seek to improve on processes and products to better serve our users. We are open to iteration and change. We seek and value feedback.
+
+### Empower and Collaborate
+We empower ourselves and each other. We are self-starters and create a safe space for our team to grow as individuals and together. We forge meaningful partnerships. We work alongside our colleagues across the RAC and in our professional networks.
+
 ## Audience
 We create educational resources for K-12 educators, undergraduate, and graduate level instructors, archivists, archival educators, and museum educators.
 
