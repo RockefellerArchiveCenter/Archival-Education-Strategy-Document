@@ -3,41 +3,41 @@ layout: docs
 title:  "Archival Education Program Strategy"
 ---
 ## Mission
-The RAC’s Archival Education Program’s mission is to demystify the archive and build confidence around the use of primary sources. We want to provide a strong foundation for educators so that they are empowered to help students in the development of their media literacy, research, and critical thinking skills.
+The RAC’s Archival Education Program’s mission is to demystify the archive and build confidence around the use of primary sources.
 
 ## Values
-We work to bridge the gap between the archive and the classroom. Not all schools have the opportunity to connect in person with an archivist, and we believe that by creating open-source materials that are easily accessible, along with opportunities for virtual workshops, we are promoting equity in education.
+We work to bridge the gap between the archive and the classroom. We want to provide a strong foundation for educators so that they are empowered to help students in the development of their media literacy, research, and critical thinking skills. Not all learning environments have the opportunity to connect in person with an archival educator or with archival documents, and we believe that by building the field of archival education and creating open-source materials in our Teach with Archives hub, we are promoting equity in education.   
 
 ### Center Equity, Diversity & Accessibility
-We create a diverse and inclusive environment.We help learners of all types to see themselves in the records, to more deeply connect with human experiences in the past. We believe equity means resources for all. Our materials, resources, and learnings are open-source. They are published in venues and formats that our audiences already use. We adopt culturally responsive frameworks in our work.
+We create a diverse and inclusive environment. We help learners of all types to see themselves int eh records, to more deeply connect with human experiences in the past. We believe equity means resources for all. Our materials, resources, and learning are open source. We meet our user communities where they already are and adopt [culturally responsive frameworks](https://www.nysed.gov/crs/framework).  
 
 ### Communicate with Transparency and Foster Trust 
-We are transparent about the sources and limitations of our records. Our visual identity is consistent, clear, and cohesive.
+We are transparent about the sources and limitations of our records. Our visual identity is consistent, clear, cohesive, and [accessible](https://rockarch.org/about-us/accessibility/). 
 
 ### Build from User Needs
-We seek to improve on processes and products to better serve our users. We are open to iteration and change. We seek and value feedback.
+We seek to improve on processes and products to better serve our users. We are open to iteration and change. We seek and value feedback and actively incorporate it into our work. 
 
 ### Empower and Collaborate
-We empower ourselves and each other. We are self-starters and create a safe space for our team to grow as individuals and together. We forge meaningful partnerships. We work alongside our colleagues across the RAC and in our professional networks.
+We empower ourselves, each other, and our users. We are self-starters, forge meaningful partnerships, and create a safe space for our community. We work alongside our colleagues across the RAC and in our professional networks.  
 
 ## Audience
-We create educational resources for K-12 educators, undergraduate, and graduate level instructors, archivists, archival educators, and museum educators.
+We create and share resources and provide field-building opportunities for educators in diverse learning spaces.  
 
 ## Activities and Products
 ### Open-Source Educational Resources
-We develop flexible primary source educational resources targeted to levels spanning older elementary to graduate students. These resources are open-source and include curated scans of primary sources from the RAC’s collections. They can be integrated into remote, hybrid, and traditional classroom settings.
+We develop flexible primary source educational resources targeted to levels spanning age 8 to adult. These resources are open-source and include digitized primary sources from the RAC’s collections. They can be integrated into remote, hybrid, and in-person learning spaces. 
 
-### Educator Workshops
-We connect with cultural organizations and educational institutions to lead workshops that model for faculty and staff the work being done at the RAC. We expand on our belief in open-source materials by sharing frameworks with professionals interested in creating archival education learning opportunities.
+### Workshops
+We connect with cultural and educational organizations to lead workshops on primary source learning. We develop and share frameworks with professionals interested in creating archival education learning opportunities in our own institutional context. 
 
 ### Archival Educators Roundtable
-The Archival Education Roundtable was created in 2016 and is a growing community of educators, archivists, and archival education allies who use primary sources for education, outreach, and public engagement.
+The Rockefeller Archive Center created the Archival Education Roundtable in 2016. It is a growing community of educators, archivists, and archival education allies who use primary sources for education, outreach, and public engagement.  
 
 ### Public Engagement
-The RAC partners with local organizations to create public programming opportunities. We enjoy working with members of the community, learning how their stories connect with and can inform our work, and sharing our resources with lifelong learners.
+The RAC partners with organizations to provide programs that connect new communities with archival documents and archival and historical practices.  
 
 ### Partners
-To develop our open-source teaching materials, we collaborate with public schools, colleges, and universities. We partner with educators from a variety of disciplines who are focused on project-based and inquiry-based learning.
+To develop our open-source teaching materials, we collaborate with public educational institutions and non-profits. We partner with individuals from a variety of disciplines and professional practice to engage in project-based and inquiry-based learning.  
 
 ## Pedagogical Goals
 Upper Elementary – Middle School (Grades 3-8)
@@ -72,14 +72,14 @@ Participants will:
 * Engage in small group and whole group discussions
 
 ## Primary Source Selection
-The primary sources selected for archival education address a range of topics and key moments and movements in American and global history. They connect topically to curricula and/or support targeted skill development in inquiry-based and project-based learning.
+The primary sources selected for archival education address a range of topics and key moments and movements in American and global history. They connect topically to curricula and/or support targeted skill development in inquiry-based and project-based learning.   
 
-We select documents that demonstrate the breadth of our collections, different types of archival formats, and provide opportunities for integrating cultural competency learning.
+We select documents that demonstrate the breadth of our collections, different types of archival formats, and provide opportunities for integrating cultural competency learning.  
 
-The number of documents varies, but we believe in a less-is-more, scaffolded approach to integrating and learning with primary sources. As students and program participants advance in their work with primary sources, they will have the skills to conduct their own further research and be smart consumers and responsible sharers of information.
+The number of documents varies, but we believe in a less-is-more, scaffolded approach to primary source literacy. As learners and program participants advance in their work with primary sources, they will build skills to connect with the past, conduct their own further research, and evaluate information sources.   
 
 ## Primary Source Educational Resources
-We create open access models in collaboration with our local lab schools and structure the development of primary source sets, workshops, units, and guides over the course of multiweek, scaffolded remote and in-person visits.
+We create open access models in collaboration with our partners. To encourage flexibility and connect with diverse users we create varied educational resources.   
 
 ### Primary Source Sets
 Curated set of 4-6 primary source documents and suggested projects related to selected umbrella topics.
