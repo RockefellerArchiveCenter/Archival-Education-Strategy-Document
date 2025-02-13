@@ -17,7 +17,7 @@ We are transparent about the sources and limitations of our records. Our visual 
 ### Build from User Needs
 We seek to improve on processes and products to better serve our users. We are open to iteration and change. We seek and value feedback and actively incorporate it into our work. 
 
-### Empower and Collaborate
+### Empower and Collaborate
 We empower ourselves, each other, and our users. We are self-starters, forge meaningful partnerships, and create a safe space for our community. We work alongside our colleagues across the RAC and in our professional networks.  
 
 ## Audience
